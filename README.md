@@ -23,5 +23,29 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/VivekSinghSajwan/Google-Gemini-Clone.git
 2. Navigate into the project directory:
+   ```bash
    cd Google-Gemini-Clone
-3. 
+3. Install dependencies:
+   ```bash
+   npm install
+4. Run the application:
+   ```bash
+   npm start
+5. Open your browser and go to
+   ```bash
+   http://localhost:3000
+
+## How to Use
+
+- Navigate through the UI to explore the various features and layout.
+- The clone replicates the visual aspects of Google Gemini, allowing users to get an experience similar to the original.
+
+## Future Improvements
+
+- Implementing additional features like dynamic content loading and state management using Redux.
+- Enhancing accessibility and performance optimization.
+
+## Contributions
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
